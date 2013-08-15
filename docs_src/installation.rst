@@ -37,7 +37,7 @@ For running element43 on Linux you need several packages installed:
 * ``memcached``
 * ``libmemcached-dev``
 * ``gfortran``
-* ``libzmq``
+* ``libzmq-dev``
 * ``postgresql-server``
 * ``postgresql-client``
 * ``python-dev``
